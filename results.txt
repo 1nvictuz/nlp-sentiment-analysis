@@ -1,0 +1,9 @@
+Python NLP Sentiment Analysis
+Records: 20
+Training: 16 | Testing: 4
+SVM accuracy: 50.00%
+Baseline accuracy: 50.00%
+Seed: 42
+Pandas: 3.1.0
+Scikit-learn: 1.9.1
+Limitations: This dataset has only 20 reviews, so test accuracy is not reliable evidence of real-world performance.
